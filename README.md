@@ -8,4 +8,4 @@ to play, click on the .ipynb and click the colab icon at the top
 
 # Usage
 ![image](https://github.com/user-attachments/assets/cedeedb7-7a37-497b-8971-f7729212873e)
-Kinda simple, upload your secret image in the left side of colab, and type in the path and secret you need to embed!
+Kinda simple, upload your secret image in the left side of colab, and type in the path and secret you need to embed! Just MAKE SURE TO RUN THE CODE IN ORDER!
